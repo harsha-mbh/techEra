@@ -1,0 +1,39 @@
+.home-page-container {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+}
+.failure-image {
+  width: 70%;
+}
+
+.home-page-heading {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-size: 32px;
+  font-weight: bold;
+}
+.courses-list-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.page-heading {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-size: 32px;
+  font-weight: bold;
+}
+.page-description {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 22px;
+}
+.retry-btn {
+  background-color: #1e293b;
+  border: none;
+  border-radius: 4px;
+  padding: 5px;
+  color: #ffffff;
+}
